@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_Make_nails_from_scrap_metal = "Fabriquer des clous à partir de ferraille",
+	Recipe_Make_screws_from_scrap_metal = "Fabriquer des vis à partir de ferraille",
+}
